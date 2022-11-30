@@ -1,0 +1,108 @@
+body
+{
+  background-color: #d7dbd3;
+  margin: 0 auto;
+}
+
+header {
+  background-color: #7b876d;
+  border-bottom: 1px solid #7b876d;
+  position: sticky;
+  width: 100%;
+  z-index: 10;
+  opacity: 0.5;
+}
+
+footer {
+  background-color: #ffffff;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 26px;
+  text-align: center;
+  height: 100px;
+}
+
+h1 {
+  color: #ffffff;
+   font-family: "Times New Roman", Times, serif;
+   text-align: center;
+  font-size: 32px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+h2 {
+  color: #204610;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 26px;
+  font-weight: 100;
+  margin: 0 auto 20px auto;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h3 {
+  color: #204610;
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  margin: 0 auto 20px auto;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+li{
+  color: #204610;
+  font-family: 'Varela Round', sans-serif;
+  font-size: 18px;
+  font-weight: 100;
+  margin: 0 auto 20px auto;
+
+}
+
+p {
+  color: #204610;
+  font-family: 'Varela Round', sans-serif;
+  font-size: 18px;
+}
+
+.adalogo{
+  image-align: center;
+}
+
+.teamIntroduction{
+  background-color: #f7ece1;
+  box-sizing: border-box;
+  padding: 40px;
+  width: 100%;
+  position: relative;
+  top: 50px;
+}
+
+
+.details{
+  background-color: #fce5cd;
+  box-sizing: border-box;
+  padding: 40px;
+  width: 100%;
+  position: relative;
+  top: 50px;
+}
+
+.codeHour{
+  background-color: #f7ece1;
+  box-sizing: border-box;
+  padding: 60px;
+  width: 100%;
+  position: relative;
+  top: 50px;
+  text-align: center;
+}
+
+.websiteproject{
+  background-color: #fce5cd;
+  box-sizing: border-box;
+  padding: 40px;
+  width: 100%;
+  position: relative;
+  top: 50px;
+}
